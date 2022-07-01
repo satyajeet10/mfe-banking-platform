@@ -1,0 +1,10 @@
+{
+  "latestErrorEvent": {
+    "code": "TYPE-001",
+    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"/usr/bin/node /tmp/showcase/mfe-banking-platform/node_modules/typescript/bin/tsc --project /tmp/showcase/mfe-banking-platform/apps/payments/node_modules/.federation/tsconfig.de016f56346463e09151d41d62bba403.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
+    "args": {
+      "cmd": "/usr/bin/node /tmp/showcase/mfe-banking-platform/node_modules/typescript/bin/tsc --project /tmp/showcase/mfe-banking-platform/apps/payments/node_modules/.federation/tsconfig.de016f56346463e09151d41d62bba403.json"
+    },
+    "timestamp": 1790793858763
+  }
+}
